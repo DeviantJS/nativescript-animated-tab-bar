@@ -1,0 +1,2 @@
+use_frameworks!
+pod 'RAMAnimatedTabBarController', '~> 1.4.0'
