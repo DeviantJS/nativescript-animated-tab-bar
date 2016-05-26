@@ -18,7 +18,7 @@ Animated Tab Bar Source for the [iOS Platform](https://github.com/Ramotion/anima
 >They were kind enough open source some really great UI / UX please respect the fact it is not their responsibility to investigate or solve issues using this plugin in NativeScript.
 
 Please create issues [here](https://github.com/DeviantJS/nativescript-animated-tab-bar/issues) first and only after it has been properly vetted to not be an {N} specific implementation problem
-should you open an issue in the [FoldingCell GitHub repo](https://github.com/Ramotion/animated-tab-bar/issues). 
+should you open an issue in the [Animated Tab Bar GitHub repo](https://github.com/Ramotion/animated-tab-bar/issues). 
 
 ## Contributing
 
