@@ -25,10 +25,10 @@
         "Animated-tab-bar",
         "tab-bar"
     ],
-    "author": {
-        "name": "Joshua Wiens",
-        "email": "wiens.joshua@gmail.com"
-    },
+  "contributors": [
+    { "name": "Joshua Wiens <d3viant0ne>" },
+    { "name": "Nathan Walkker <NathanWalker>" }
+  ],
     "bugs": {
         "url": "https://github.com/DeviantJS/nativescript-animated-tab-bar/issues"
     },
